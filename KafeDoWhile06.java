@@ -22,5 +22,6 @@ public class KafeDoWhile06 {
             System.out.println("total yang harus dibayar: " + totalHarga);
             sc.nextLine();
         } while (true);
+        System.out.println("semua transaksi selesai");
     }
 }
